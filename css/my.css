@@ -1,0 +1,63 @@
+.root{
+	max-width: 600px;
+	background: red;
+	margin: 0 auto;
+}
+.head{
+	width: 100%;
+	height: 2.1rem;
+	background:#f37d0f;
+	position: relative;
+}
+.head img{
+	width: 100%;
+	height: 100%;
+}
+.head-small-box{
+	height:1.4rem;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 0.35rem 0.35rem 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: flex;
+	
+}
+.head-tx{
+	width: 1.4rem;
+	height: 1.4rem;
+	border-radius: 50%;
+	background: url(https://m.mi.com/static/img/avatar.76a75b8f17.png);
+	background-size: 100% 100%;
+	border: 3px solid rgba(255,255,255,0.4);
+	box-sizing: border-box;
+	
+}
+.head-text{
+	font-size: 0.24rem;
+	color: #fff;
+	width: 20%;
+	line-height: 1.4rem;
+	margin-left:0.3rem;
+	box-sizing: border-box;
+}
+.dd-box{
+	width: 100%;
+	height: 0.8rem;
+	background: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer .big a:last-child{
+	color: #ff6700;
+}
