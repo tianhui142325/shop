@@ -5,6 +5,8 @@ footer{
 	position: fixed;
 	bottom: 0;
 	left: 0;
+	box-sizing: border-box;
+	border-bottom: 0.01rem solid rgba(0,0,0,0.1);
 }
 footer .big{
 	display: flex;
@@ -25,9 +27,9 @@ footer .big a{
 }
 footer .big a i{
 	display: block;
-	font-size: 0.7rem;
+	font-size: 0.57rem;
 }
 
 footer .big a p{
-	font-size: 0.33rem;
+	font-size: 0.34rem;
 }
