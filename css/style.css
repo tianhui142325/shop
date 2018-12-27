@@ -42,9 +42,12 @@
 	background-size: 100% 100%;
 
 }
-
+.a{
+	width: 7rem;
+	height: 0.79rem;
+}
 .head-top-text {
-	width: 7.73rem;
+	width: 7rem;
 	height: 0.79rem;
 	background: #FFFFFF;
 	border: 1px solid #e8e8e8;
@@ -64,7 +67,11 @@
 	font-size: 0.5rem;
 	display: block;
 }
-
+.a1{
+	width: 0.58rem;
+	height: 0.63rem;
+	background: #f2f2f2;
+}
 .head-top-self {
 	width: 0.58rem;
 	height: 0.63rem;
