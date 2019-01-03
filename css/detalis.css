@@ -3,12 +3,19 @@
 	height: 9rem;
 	margin: 0 auto;
 }
+.top-big-box{
+	width: 300%;
+	height: 100%;
+	display: flex;
+}
 .top-picture{
 	height: 11.81rem;
 	width: 100%;
+	overflow: hidden;
+
 }
-.top-picture>img{
-	width: 100%;
+.top-big-box>img{
+	width: 11.81rem;
 	height: 100%;
 }
 .detalis{
